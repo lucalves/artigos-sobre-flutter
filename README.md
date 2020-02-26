@@ -2,7 +2,7 @@
 
 # Artigos
 
-Repositório destinado aos desenvolvedores para publicações de artigos em português sobre o framework da Google. Para artigos em inglês, verifique [este](https://github.com/lucalves/artigos-flutter/blob/master/README-eng.md) documento.
+Repositório destinado aos desenvolvedores para publicações de artigos em português sobre o framework da Google. Para artigos em inglês, verifique [este](https://github.com/lucalves/artigos-flutter/blob/master/README-en.md) documento.
 
 ## Sumário
 
