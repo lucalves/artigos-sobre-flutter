@@ -26,6 +26,7 @@ Título do artigo | Autor
 Título do artigo | Autor 
 ---------------- | ----- 
 [Flutter com MobX](https://medium.com/flutter-comunidade-br/flutter-com-mobx-c0f4762fbd1a) | João Victor Pereira Santos
+[Explicando Reactions do MobX usando tirinhas](https://medium.com/@almirjr.ze/explicando-reactions-do-mobx-usando-tirinhas-e1ac5def1a1b) | José Almir
 
 ### Layout
 
