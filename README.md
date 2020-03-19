@@ -10,6 +10,7 @@ Repositório destinado aos desenvolvedores para publicações de artigos em port
 - [Gerenciamento de Estado](https://github.com/lucalves/artigos-flutter/blob/master/README.md#Gerenciamento-de-Estado)
 - [Layout](https://github.com/lucalves/artigos-flutter/blob/master/README.md#Layout)
 - [Produtividade](https://github.com/lucalves/artigos-flutter/blob/master/README.md#Produtividade)
+- [Testes](https://github.com/lucalves/artigos-flutter/blob/master/README.md#Testes)
 - [Outros](https://github.com/lucalves/artigos-flutter/blob/master/README.md#Outros)
 
 ## Publicações
@@ -39,6 +40,11 @@ Título do artigo | Autor
 ---------------- | ----- 
 [12 Bibliotecas úteis para auxiliar no desenvolvimento utilizando Flutter](https://medium.com/flutter-comunidade-br/12-bibliotecas-%C3%BAteis-para-auxiliar-no-desenvolvimento-utilizando-flutter-5982fdf01c80) | Lucas Alves Arcanjo
 [10 Dicas de Produtividade no Flutter utilizando Android Studio](https://medium.com/flutter-comunidade-br/10-dicas-de-produtividade-no-flutter-utilizando-android-studio-38d2bbcc9a92) | Lucas Alves Arcanjo
+
+### Testes
+Título do artigo | Autor 
+---------------- | ----- 
+[Testando seus widgets em Flutter](https://medium.com/flutter-comunidade-br/widget-test-787b81cf8996) | Isac
 
 ### Outros
 Título do artigo | Autor 
