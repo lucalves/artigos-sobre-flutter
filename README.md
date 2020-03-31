@@ -1,4 +1,4 @@
-<img width="200" height="100" src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" alt="Awesome" align="right">
+<img width="200" height="70" src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" alt="Awesome" align="right">
 
 # Artigos
 
@@ -21,6 +21,7 @@ Título do artigo | Autor
 ---------------- | ----- 
 [Introdução a linguagem de programação Dart](https://medium.com/flutter-comunidade-br/introdu%C3%A7%C3%A3o-a-linguagem-de-programa%C3%A7%C3%A3o-dart-b098e4e2a41e) | Kleber Andrade
 [Sobrecarga de Operadores com Dart](https://medium.com/flutter-comunidade-br/sobrecarga-de-operadores-com-dart-84d94842ce89) | Douglas Possas
+[Primeiros passos com a Google Dart](https://www.devmedia.com.br/primeiros-passos-com-a-google-dart/32954) | Julio
 
 ### Gerenciamento de Estado
 
