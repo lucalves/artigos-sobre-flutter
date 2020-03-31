@@ -1,4 +1,4 @@
-<img width="200" height="90" src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" alt="Awesome" align="right">
+<img width="200" height="100" src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" alt="Awesome" align="right">
 
 # Artigos
 
