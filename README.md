@@ -6,6 +6,7 @@ Repositório destinado aos desenvolvedores para publicações de artigos em port
 
 ## Sumário
 
+- [Aplicativos](https://github.com/lucalves/artigos-flutter/blob/master/README.md#Aplicativos)
 - [Dart](https://github.com/lucalves/artigos-flutter/blob/master/README.md#Dart)
 - [Gerenciamento de Estado](https://github.com/lucalves/artigos-flutter/blob/master/README.md#Gerenciamento-de-Estado)
 - [Layout](https://github.com/lucalves/artigos-flutter/blob/master/README.md#Layout)
@@ -14,6 +15,12 @@ Repositório destinado aos desenvolvedores para publicações de artigos em port
 - [Outros](https://github.com/lucalves/artigos-flutter/blob/master/README.md#Outros)
 
 ## Publicações
+
+### Aplicativos
+
+Título do artigo | Autor
+---------------- | ----- 
+[Desenvolvendo um Quiz (tema COVID-19) em Flutter com Google Sheets](https://medium.com/flutter-comunidade-br/desenvolvendo-um-quiz-com-flutter-e-google-sheets-414656cb89a2) | Kleber Andrade
 
 ### Dart
 
