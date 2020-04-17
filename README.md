@@ -21,6 +21,7 @@ Repositório destinado aos desenvolvedores para publicações de artigos em port
 Título do artigo | Autor
 ---------------- | ----- 
 [Desenvolvendo um Quiz (tema COVID-19) em Flutter com Google Sheets](https://medium.com/flutter-comunidade-br/desenvolvendo-um-quiz-com-flutter-e-google-sheets-414656cb89a2) | Kleber Andrade
+[Criando um aplicativo em Flutter para classificar imagens (gato e cachorro) com Teachable Machine (TensorFlow)](https://medium.com/flutter-comunidade-br/criando-um-aplicativo-em-flutter-para-classificar-imagens-gato-e-cachorro-com-teachable-machine-be35c604c780) | Kleber Andrade
 
 ### Dart
 
