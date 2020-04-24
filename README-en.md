@@ -6,10 +6,16 @@ Repository for developers to publish articles on the Google framework. Only mate
 
 ## Summary
 
+- [News](https://github.com/lucalves/artigos-flutter/blob/master/README.md#News)
 - [Productivity](https://github.com/lucalves/artigos-flutter/blob/master/README.md#Productivity)
 - [Others](https://github.com/lucalves/artigos-flutter/blob/master/README.md#Others)
 
 ## Publications
+
+### News
+Article title | Author 
+---------------- | ----- 
+[Flutter and Fuchsia. The next big thing?](https://medium.com/swlh/flutter-and-fuchsia-the-death-of-react-android-a34f6d12bb82) | Dominik Tarnowski
 
 ### Productivity
 Article title | Author 
