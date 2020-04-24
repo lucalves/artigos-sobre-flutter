@@ -1,8 +1,10 @@
-<img width="200" height="100" src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" alt="Awesome" align="right">
-
 # Articles
 
-Repository for developers to publish articles on the Google framework. Only materials in English will be accepted here.
+Repository for developers to publish articles on the Google framework.
+
+> Only materials in English will be accepted here.
+
+<img width="150" height="50" src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" alt="Awesome" align="right">
 
 ## Summary
 
