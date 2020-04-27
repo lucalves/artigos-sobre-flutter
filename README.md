@@ -62,6 +62,8 @@ Título do artigo | Autor
 ---------------- | ----- 
 [Flutter: porque você deveria apostar nesta tecnologia](https://medium.com/tableless/flutter-porque-voc%C3%AA-deveria-apostar-nesta-tecnologia-94a510fffd18) | Fabiano Santana
 [Como o Flutter me levou ao React Native — e vice-versa](https://medium.com/flutter-comunidade-br/como-o-flutter-me-levou-ao-react-native-e-vice-versa-5ec6329508b8) | Ícaro Azevedo
+[Porquê nós achamos que Flutter vai nos ajudar a escalar o desenvolvimento mobile no Nubank](https://medium.com/flutter-comunidade-br/porqu%C3%AA-n%C3%B3s-achamos-que-flutter-vai-nos-ajudar-a-escalar-o-desenvolvimento-mobile-no-nubank-95d07b4554d7) | Alexandre Freire
+
 
 ## Como posso contribuir?
 
