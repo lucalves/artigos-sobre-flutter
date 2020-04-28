@@ -1,5 +1,7 @@
 # Artigos
 
+[![GitHub stars](https://img.shields.io/github/stars/lucalves/artigos-sobre-flutter?color=blue)](https://github.com/lucalves/artigos-sobre-flutter)
+
 Repositório destinado aos desenvolvedores para publicações de artigos em português sobre Flutter. 
 
 > Para artigos em inglês, verifique [este](https://github.com/lucalves/artigos-flutter/blob/master/README-en.md) documento.
