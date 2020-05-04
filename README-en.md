@@ -29,6 +29,7 @@ Article title | Author
 ---------------- | ----- 
 [How to Learn Flutter?](https://medium.com/flutter-community/how-to-learn-flutter-886c0bad8a46) | Abdurahman Popal
 [5 Tips To Know Before You Start Developing Your App with Flutter](https://medium.com/flutter-community/5-tips-to-know-before-you-start-developing-your-app-with-flutter-50771507dae0) | Gaspard Merten
+[Flutter: Best Practices and Tips](https://medium.com/flutter-community/flutter-best-practices-and-tips-7c2782c9ebb5) | Kinjal Dhamat
 
 ## How can I contribute?
 
