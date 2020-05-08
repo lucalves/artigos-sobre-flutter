@@ -2,7 +2,7 @@
 
 - Antes de tudo, verifique se a licença do artigo permite que o mesmo seja compartilhado na comunidade com os devidos créditos ao autor. Isso evita perda de tempo da sua parte e dor de cabeça para todos nós.
 
-- Artigos que sejam relacionados ao framework Flutter, incluídos na sua devida seção serão bem vindos!
+- Artigos que sejam relacionados a [Flutter](https://flutter.dev/), incluídos em sua devida seção serão bem vindos!
 
 - Os artigos estão organizados por categoria, se tiver algum artigo interessante inclua-o em sua seção (se for incluir uma categoria no sumário, colocar a mesma em ordem alfabética). 
 
