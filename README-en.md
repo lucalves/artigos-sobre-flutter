@@ -24,6 +24,7 @@ Article title | Author
 ---------------- | ----- 
 [12 Useful libraries to support development using flutter](https://medium.com/flutter-community/12-useful-libraries-to-support-development-using-flutter-3b8df97d898) | Lucas Alves Arcanjo
 [Git hooks in Flutter projects with Lefthook](https://dev.to/arthurdenner/git-hooks-in-flutter-projects-with-lefthook-52n) | Arthur Denner
+[Run checks for Flutter projects with GitHub Actions](https://dev.to/arthurdenner/run-checks-for-flutter-projects-with-github-actions-7ld) | Arthur Denner
 
 ### Others
 Article title | Author 
