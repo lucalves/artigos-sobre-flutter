@@ -25,6 +25,7 @@ Article title | Author
 [12 Useful libraries to support development using flutter](https://medium.com/flutter-community/12-useful-libraries-to-support-development-using-flutter-3b8df97d898) | Lucas Alves Arcanjo
 [Git hooks in Flutter projects with Lefthook](https://dev.to/arthurdenner/git-hooks-in-flutter-projects-with-lefthook-52n) | Arthur Denner
 [Run checks for Flutter projects with GitHub Actions](https://dev.to/arthurdenner/run-checks-for-flutter-projects-with-github-actions-7ld) | Arthur Denner
+[Optimizing performance in Flutter web apps with tree shaking and deferred loading](https://medium.com/flutter/optimizing-performance-in-flutter-web-apps-with-tree-shaking-and-deferred-loading-535fbe3cd674) | Per Classon
 
 ### Others
 Article title | Author 
