@@ -41,6 +41,7 @@ Título do artigo | Autor
 ---------------- | ----- 
 [Flutter com MobX](https://medium.com/flutter-comunidade-br/flutter-com-mobx-c0f4762fbd1a) | João Victor Pereira Santos
 [Explicando Reactions do MobX usando tirinhas](https://medium.com/@almirjr.ze/explicando-reactions-do-mobx-usando-tirinhas-e1ac5def1a1b) | José Almir
+[Utilizando Shared Preferences no Flutter](https://medium.com/flutter-comunidade-br/utilizando-shared-preferences-no-flutter-4d762be337b8) | Eduardo Augusto
 
 ### Layout
 
