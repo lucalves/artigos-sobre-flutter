@@ -2,7 +2,7 @@
 
 Repository for developers to publish articles on the Google framework.
 
-> Only materials in English will be accepted here.
+> Only materials in English will be accepted here. For portuguese articles, click [here](https://github.com/lucalves/artigos-sobre-flutter/blob/master/README.md).
 
 <img width="150" height="50" src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" alt="Awesome" align="right">
 
