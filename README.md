@@ -61,6 +61,7 @@ Título do artigo | Autor
 Título do artigo | Autor 
 ---------------- | ----- 
 [Testando seus widgets em Flutter](https://medium.com/flutter-comunidade-br/widget-test-787b81cf8996) | Isac
+[Testes de unidade e Widget com mocks: Boas práticas no Flutter](https://www.alura.com.br/conteudo/testes-widgets-flutter) | Alura
 
 ### Outros
 Título do artigo | Autor 
