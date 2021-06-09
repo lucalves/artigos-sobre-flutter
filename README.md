@@ -1,4 +1,4 @@
-# Artigos
+# Artigos: Flutter
 
 [![GitHub stars](https://img.shields.io/github/stars/lucalves/artigos-sobre-flutter?color=blue)](https://github.com/lucalves/artigos-sobre-flutter)
 
