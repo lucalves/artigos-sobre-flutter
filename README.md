@@ -1,6 +1,6 @@
 # Artigos: Flutter
 
-[![GitHub stars](https://img.shields.io/github/stars/lucalves/artigos-sobre-flutter?color=blue)](https://github.com/lucalves/artigos-sobre-flutter)
+[![GitHub forks](https://img.shields.io/github/forks/lucalves/artigos-sobre-flutter?style=social&label=Fork&maxAge=2592000)](https://github.com/lucalves/artigos-sobre-flutter)
 
 Repositório destinado aos desenvolvedores para publicações de artigos em português sobre Flutter. 
 
