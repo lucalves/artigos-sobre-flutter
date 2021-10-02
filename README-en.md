@@ -1,6 +1,6 @@
 # Articles
 
-Repository for developers to publish articles on the Google framework.
+Repository for developers to publish articles on the Flutter UI toolkit.
 
 > Only materials in English will be accepted here. For portuguese articles, click [here](https://github.com/lucalves/artigos-sobre-flutter/blob/master/README.md).
 
