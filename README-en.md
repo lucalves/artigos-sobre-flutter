@@ -26,6 +26,7 @@ Article title | Author
 [Git hooks in Flutter projects with Lefthook](https://dev.to/arthurdenner/git-hooks-in-flutter-projects-with-lefthook-52n) | Arthur Denner
 [Run checks for Flutter projects with GitHub Actions](https://dev.to/arthurdenner/run-checks-for-flutter-projects-with-github-actions-7ld) | Arthur Denner
 [Optimizing performance in Flutter web apps with tree shaking and deferred loading](https://medium.com/flutter/optimizing-performance-in-flutter-web-apps-with-tree-shaking-and-deferred-loading-535fbe3cd674) | Per Classon
+[15 Useful Libraries for Flutter Development Productivity [Updated 2021]](https://medium.com/flutter-community/15-useful-libraries-for-flutter-development-productivity-updated-2021-15bcafe205f3) | Lucas Alves Arcanjo
 
 ### Others
 Article title | Author 
