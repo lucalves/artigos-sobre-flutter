@@ -53,6 +53,7 @@ Título do artigo | Autor
 ### Produtividade
 Título do artigo | Autor 
 ---------------- | ----- 
+[15 Bibliotecas úteis para produtividade no desenvolvimento com Flutter [Atualizado 2021]](https://lucalves.medium.com/15-bibliotecas-%C3%BAteis-para-produtividade-no-desenvolvimento-com-flutter-atualizado-2021-deae4e815345) | Lucas Alves Arcanjo
 [12 Bibliotecas úteis para auxiliar no desenvolvimento utilizando Flutter](https://medium.com/flutter-comunidade-br/12-bibliotecas-%C3%BAteis-para-auxiliar-no-desenvolvimento-utilizando-flutter-5982fdf01c80) | Lucas Alves Arcanjo
 [10 Dicas de Produtividade no Flutter utilizando Android Studio](https://medium.com/flutter-comunidade-br/10-dicas-de-produtividade-no-flutter-utilizando-android-studio-38d2bbcc9a92) | Lucas Alves Arcanjo
 [Git hooks em projetos Flutter com Lefthook](https://medium.com/flutterando/git-hooks-em-projetos-flutter-com-lefthook-b3a5e9b5fe2d) | Arthur Denner
