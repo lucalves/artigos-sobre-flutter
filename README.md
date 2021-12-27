@@ -27,6 +27,7 @@ Título do artigo | Autor
 [Desenvolvendo um Quiz (tema COVID-19) em Flutter com Google Sheets](https://medium.com/flutter-comunidade-br/desenvolvendo-um-quiz-com-flutter-e-google-sheets-414656cb89a2) | Kleber Andrade
 [Criando um aplicativo em Flutter para classificar imagens (gato e cachorro) com Teachable Machine (TensorFlow)](https://medium.com/flutter-comunidade-br/criando-um-aplicativo-em-flutter-para-classificar-imagens-gato-e-cachorro-com-teachable-machine-be35c604c780) | Kleber Andrade
 [Criando um aplicativo em Flutter para consumir uma API de Filmes (TMDb)](https://medium.com/flutter-comunidade-br/criando-um-aplicativo-em-flutter-para-consumir-uma-api-de-filmes-tmdb-2b5a9982bfcd) | Kleber Andrade
+[Criando um jogo da velha (Tic Tac Toe) com Flutter](https://medium.com/flutter-comunidade-br/criando-um-jogo-da-velha-em-flutter-50347537c926) | Kleber Andrade
 
 ### Dart
 
