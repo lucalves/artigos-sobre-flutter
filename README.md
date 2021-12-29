@@ -1,7 +1,5 @@
 # Artigos: Flutter
 
-[![GitHub forks](https://img.shields.io/github/forks/lucalves/artigos-sobre-flutter?style=social&label=Fork&maxAge=2592000)](https://github.com/lucalves/artigos-sobre-flutter)
-
 Repositório destinado aos desenvolvedores para publicações de artigos em português sobre Flutter. 
 
 > Para artigos em inglês, verifique [este](https://github.com/lucalves/artigos-flutter/blob/master/README-en.md) documento.
