@@ -1,4 +1,4 @@
-## Como posso contribuir?
+# Como posso contribuir?
 
 - Antes de tudo, verifique se a licença do artigo permite que o mesmo seja compartilhado na comunidade com os devidos créditos ao autor. Isso evita perda de tempo da sua parte e dor de cabeça para todos nós.
 
