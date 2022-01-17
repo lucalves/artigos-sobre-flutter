@@ -2,7 +2,7 @@
 
 Repositório destinado aos desenvolvedores para publicações de artigos em português sobre Flutter. 
 
-> Para artigos em inglês, verifique [este](https://github.com/lucalves/artigos-flutter/blob/master/README-en.md) documento.
+Para artigos em inglês, verifique [este](https://github.com/lucalves/artigos-flutter/blob/master/README-en.md) documento.
 
 <img width="150" height="50" src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" alt="Awesome" align="right">
 
