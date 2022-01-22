@@ -27,6 +27,7 @@ Article title | Author
 [Run checks for Flutter projects with GitHub Actions](https://dev.to/arthurdenner/run-checks-for-flutter-projects-with-github-actions-7ld) | Arthur Denner
 [Optimizing performance in Flutter web apps with tree shaking and deferred loading](https://medium.com/flutter/optimizing-performance-in-flutter-web-apps-with-tree-shaking-and-deferred-loading-535fbe3cd674) | Per Classon
 [15 Useful Libraries for Flutter Development Productivity [Updated 2021]](https://medium.com/flutter-community/15-useful-libraries-for-flutter-development-productivity-updated-2021-15bcafe205f3) | Lucas Alves Arcanjo
+[5 tips to Learn Flutter Like a Pro [from a Flutter course creator]](https://medium.com/flutter-community/5-tips-to-learn-flutter-like-a-pro-from-a-flutter-course-creator-e4cb06594424) | Nick Manning
 
 ### Others
 Article title | Author 
