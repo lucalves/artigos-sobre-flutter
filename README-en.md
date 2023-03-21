@@ -44,6 +44,7 @@ Article title | Author
 [5 Tips To Know Before You Start Developing Your App with Flutter](https://medium.com/flutter-community/5-tips-to-know-before-you-start-developing-your-app-with-flutter-50771507dae0) | Gaspard Merten
 [Flutter: Best Practices and Tips](https://medium.com/flutter-community/flutter-best-practices-and-tips-7c2782c9ebb5) | Kinjal Dhamat
 [The Cost of Flutter App Development in 2023: A Quick Guide](https://medium.com/geekculture/the-cost-of-flutter-app-development-in-2023-a-quick-guide-21cd5f533714) | Megha Verma
+[A Complete Guide to Firebase Multifactor Authentication in Flutter](https://medium.com/flutter-community/a-complete-guide-to-firebase-multifactor-authetication-in-flutter-codemagic-blog-e7b699a968f3) | Codemagic
 
 ## How can I contribute?
 
