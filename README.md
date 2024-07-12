@@ -10,7 +10,7 @@ Para artigos em inglês, verifique [este](https://github.com/lucalves/artigos-fl
 
 - [Aplicativos](https://github.com/lucalves/artigos-flutter/blob/master/README.md#Aplicativos)
 - [Dart](https://github.com/lucalves/artigos-flutter/blob/master/README.md#Dart)
-- [Gerenciamento de Estado](https://github.com/lucalves/artigos-flutter/blob/master/README.md#Gerenciamento-de-Estado)
+- [Estado](https://github.com/lucalves/artigos-flutter/blob/master/README.md#Gerenciamento-de-Estado)
 - [Layout](https://github.com/lucalves/artigos-flutter/blob/master/README.md#Layout)
 - [Produtividade](https://github.com/lucalves/artigos-flutter/blob/master/README.md#Produtividade)
 - [Testes](https://github.com/lucalves/artigos-flutter/blob/master/README.md#Testes)
@@ -35,7 +35,7 @@ Título do artigo | Autor
 [Sobrecarga de Operadores com Dart](https://medium.com/flutter-comunidade-br/sobrecarga-de-operadores-com-dart-84d94842ce89) | Douglas Possas
 [Primeiros passos com a Google Dart](https://www.devmedia.com.br/primeiros-passos-com-a-google-dart/32954) | Julio
 
-### Gerenciamento de Estado
+### Estado
 
 Título do artigo | Autor 
 ---------------- | ----- 
